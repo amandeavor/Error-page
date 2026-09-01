@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/assets/social-preview.png" alt="TinyTrails: a better way back from 404" width="100%">
+
 # TinyTrails 404 Experience
 
 **Playful, interactive, and responsive 404 error recovery page concept.**
