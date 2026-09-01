@@ -32,6 +32,12 @@ npm run build
 npm run preview
 ```
 
+## Contributing and Guidelines
+
+- [Contributing Guide](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+
 ## Notes
 
-This repository is a focused interface concept rather than a full application.
+This repository is a focused interface concept rather than a full application. All rights reserved.

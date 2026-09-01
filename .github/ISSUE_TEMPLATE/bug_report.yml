@@ -1,0 +1,15 @@
+name: Bug Report
+description: Report an issue or styling glitch on the 404 page
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting an issue.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Description
+      description: Describe what is broken or rendering incorrectly.
+    validations:
+      required: true
